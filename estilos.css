@@ -1,0 +1,56 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("gradient-red-background-free-vector.jpg");
+    background-repeat: repeat;
+    
+    }
+    
+        
+        .contenedor{
+        
+        height: 1000px;
+        }
+        .contenedor2{
+        
+         
+        
+            height: 1000px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+            
+             
+            
+            }
+        .texto{
+        
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: rgb(255, 255, 255);
+        
+         
+        
+        }
+        
+    
+        .contenido{
+
+            height: 280px;
+            width: 100%;
+            float: right;
+            position: absolute;
+            color: white;
+            top: 410px;
+        }
+                
